@@ -1,4 +1,4 @@
-This project is a Node.js command-line application for managing notes. It provides various commands to create, retrieve, find, and delete notes. Additionally, it includes a web server to display notes in a web browser. The notes are stored in a JSON file (`db.json`), and the application uses the `yargs` library to handle command-line arguments and commands.
+This project is a terminal application for taking notes written in node.js. It provides various commands to create, retrieve, find, and delete notes. Additionally, it includes a web server to display notes in a web browser. The notes are stored in a JSON file (`db.json`), and the application uses the `yargs` library to handle command-line arguments and commands.
 
 Key functionalities include:
 
